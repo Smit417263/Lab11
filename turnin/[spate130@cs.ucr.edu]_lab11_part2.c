@@ -317,15 +317,6 @@ int tick_4(int state_4){
 		break;
 	}
 
-
-	switch(state_4){
-		case off_1:
-			go = 0;
-			break;
-		default:
-			break;
-	}
-
 	return state_4;
 }
 
